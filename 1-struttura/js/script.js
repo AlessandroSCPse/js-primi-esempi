@@ -1,0 +1,1 @@
+document.getElementById('mio-titolo').innerHTML = 'Hello world!';
